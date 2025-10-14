@@ -30,9 +30,26 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funx8&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=funx8&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=funx8&show_icons=true&theme=radical&hide_border=true" 
+    width="48%" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.vercel.app/?user=funx8&theme=radical&hide_border=true" 
+    width="48%" 
+    alt="GitHub Streak"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=funx8&layout=compact&theme=radical&hide_border=true" 
+    width="48%" 
+    alt="Top Languages"
+  />
+</p>
+
 
 ---
 

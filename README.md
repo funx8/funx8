@@ -46,9 +46,10 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" />
+  <i>"Code with passion. Build with purpose."</i>
 </p>
 
+<!-- إضافة الـ GIF في الأسفل -->
 <p align="center">
-  <i>"Code with passion. Build with purpose."</i>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZheXl6MjJwZjJpczNwNTNzaGNrbjlxZGd1aHJrMG5tMWthZzZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0VvDkS4j4Ia2RjAOS/giphy.gif" width="300"/>
 </p>

@@ -44,7 +44,4 @@
   <i>"Code with passion. Build with purpose."</i>
 </p>
 
-<!-- GIF Footer -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZheXl6MjJwZjJpczNwNTNzaGNrbjlxZGd1aHJrMG5tMWthZzZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0VvDkS4j4Ia2RjAOS/giphy.gif" width="300" alt="Coding animation"/>
-</p>
+

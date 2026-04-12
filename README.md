@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <div align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="90" alt="Coding GIF"/>
   <h1>I'm <b>Nour Bassem</b> 👋</h1>
@@ -103,7 +102,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=funx8&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=funx8&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---

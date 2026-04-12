@@ -86,27 +86,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funx8&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=funx8&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funx8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Top Languages"/>
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=funx8&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
----
-
 ### 💼 Work Experience
 
 - **2022 - Present:** UI/UX Designer, Discord Bot Developer & GFX Designer — Freelance.

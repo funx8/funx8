@@ -95,16 +95,16 @@ const nour = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=funx8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funx8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=funx8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funx8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0&cache_seconds=1800&langs_count=8" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=funx8&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a78bfa&currStreakLabel=e2e8f0)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=funx8&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a78bfa&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b" />
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=funx8&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=a78bfa&point=e2e8f0)](https://github.com/funx8)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=funx8&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=a78bfa&point=e2e8f0&area=true&area_color=6366f1" width="95%" />
 
 </div>
 

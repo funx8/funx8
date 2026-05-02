@@ -90,16 +90,14 @@ const nour = {
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Tauri Mobile](https://img.shields.io/badge/Tauri_Mobile-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
 
 ### 🖥️ Desktop Development
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Rust Desktop](https://img.shields.io/badge/Rust_Desktop-000000?style=flat-square&logo=rust&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Linux App](https://img.shields.io/badge/Linux_App-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 ### 🤖 Bots & Automation
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
@@ -112,10 +110,6 @@ const nour = {
 ### 🎨 Design & UI
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline_3D-0060DF?style=flat-square&logo=spline&logoColor=white)
-![Lottie](https://img.shields.io/badge/Lottie-FF3366?style=flat-square&logo=airbnb&logoColor=white)
 
 ### 🧰 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -145,9 +139,6 @@ const nour = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=funx8&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funx8&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800&langs_count=8" />
 
 <br/>
 

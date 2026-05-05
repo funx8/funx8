@@ -142,7 +142,6 @@ const nour = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=funx8&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 

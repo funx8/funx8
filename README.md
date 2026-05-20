@@ -125,14 +125,6 @@ const nour = {
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-14151A?style=flat-square&logo=bun&logoColor=white)
 
----
-
-## 💼 Work Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| 🟢 2022 – Present | UI/UX Designer · Discord Bot Dev · GFX Designer | Freelance |
-| ⚪ 2021 – 2022 | Discord Bot Developer | Orbital Studios |
 
 ---
 

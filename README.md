@@ -33,24 +33,22 @@ const nour = {
   location:       "Marsa Matrouh, Egypt 🇪🇬",
   portfolio:      "https://nour-dev.site/",
   currentFocus:   "Modern dashboards, automation tools & premium web systems",
-  building:       ["Desktop apps with Tauri + Rust 🦀", "Mobile apps with React Native + Tauri"],
-  funFact:        "I turn caffeine into clean UIs ☕",
+  building:       ["Desktop apps with Tauri + Rust", "Mobile apps with React Native + Tauri"],
+  funFact:        "I turn caffeine into clean UIs",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🌐 Frontend Languages
+###  Frontend Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 
-### ⚛️ Frameworks & Libraries
+###  Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -59,10 +57,9 @@ const nour = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -77,29 +74,25 @@ const nour = {
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-### 🦀 Rust & Systems
+###  Rust & Systems
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
-![Cargo](https://img.shields.io/badge/Cargo-orange?style=flat-square&logo=rust&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white)
-![Actix Web](https://img.shields.io/badge/Actix_Web-000000?style=flat-square&logo=rust&logoColor=white)
-![Wasm Pack](https://img.shields.io/badge/Wasm_Pack-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 
-### 📱 Mobile Development
+###  Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Tauri Mobile](https://img.shields.io/badge/Tauri_Mobile-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 
-### 🖥️ Desktop Development
+###  Desktop Development
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Rust Desktop](https://img.shields.io/badge/Rust_Desktop-000000?style=flat-square&logo=rust&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 
-### 🤖 Bots & Automation
+###  Bots & Automation
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
@@ -107,14 +100,13 @@ const nour = {
 ![Cheerio](https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square&logo=javascript&logoColor=white)
 ![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-004088?style=flat-square&logo=clockify&logoColor=white)
 
-### 🎨 Design & UI
+###  Design & UI
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-### 🧰 DevOps & Tools
+###  DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
